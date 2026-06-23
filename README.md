@@ -5,6 +5,8 @@ A fan-made player player activity detection upgrade and bug-fix for [Just Natsuk
 (Fun fact: this was the second submod I ever wrote, like five months ago. I thought it was busted because these weird "Talk to me!" notifications kept coming through randomly, so I never released it into the wild—turns out those weren't a bug, just *how they were triggering* was. Just another casualty of running JN on Mac. Well, at least your old pal Zhaumbie's around.)
 
 
+<img src="https://preview.redd.it/wv2eiqhzq19h1.png?width=1024&auto=webp&s=b631541378e19fe439d20f48afebd3fcd8a9c6e6">
+
 > [!WARNING]
 > **This is an unofficial fan-made submod for Just Natsuki. It is not affiliated with the Just Natsuki team.**  
 > The developers are **not responsible for troubleshooting this submod** or problems caused by installing it. This submod *does not touch your persistent file*, but backing it up is always the BEST idea.
